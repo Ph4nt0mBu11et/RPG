@@ -87,4 +87,3 @@ Proyecto desarrollado por Gaojie Fu
 📄 Notas
 
 Este proyecto se realizó con fines de aprendizaje y práctica.
-No incluye licencia ni distribución oficial.
