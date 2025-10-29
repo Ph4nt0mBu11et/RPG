@@ -22,14 +22,14 @@ El juego combina **salida de texto en consola** con **componentes gráficos en J
 ## 🧩 Estructura del Proyecto
 
 src/
-├── Entity/ → Clases de entidades (Jugador, Enemigo, NPC, Tienda, etc.)
-├── Items/ → Sistema de ítems: armas, armaduras, consumibles, etc.
-├── Map/ → Generación y manejo de mapas ASCII.
-├── Quest/ → Misiones y progreso del jugador.
-├── Skills/ → Habilidades y poderes.
-├── Utils.java → Funciones auxiliares (colores ANSI, herramientas varias).
-├── Demo.java → Clase principal del juego.
-└── Test.java → Clases de prueba y depuración.
+├── Entity/ Clases de entidades (Jugador, Enemigo, NPC, Tienda, etc.)
+├── Items/ Sistema de ítems: armas, armaduras, consumibles, etc.
+├── Map/ Generación y manejo de mapas ASCII.
+├── Quest/ Misiones y progreso del jugador.
+├── Skills/ Habilidades y poderes.
+├── Utils.java Funciones auxiliares (colores ANSI, herramientas varias).
+├── Demo.java Clase principal del juego.
+└── Test.java Clases de prueba y depuración.
 
 
 ---
