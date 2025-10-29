@@ -82,7 +82,7 @@ src/ <br/>
 🧑‍💻 Autor
 
 Proyecto desarrollado por Gaojie Fu
-📆 Realizado durante el primer año del ciclo DAM (Navidades).
+📆 Realizado durante el primer año del ciclo DAM.
 🎓 Proyecto académico sin fines comerciales.
 📄 Notas
 
